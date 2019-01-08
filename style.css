@@ -136,24 +136,14 @@ header:hover{
 
 
 .container{
-    display:flex;
-    flex-direction: row;
-    padding:0;
-
-
-}
-.container2{
-    width: 60%; 
-    margin-top: 20px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-content: ;
-    margin: 0 auto;
+    
+    
+    
 
 
 
 }
+
  
  input[type=text], select, textarea {
     width: 100%;
@@ -179,7 +169,7 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: red;
 }
-h2,h3{
+h2,h3 {
 
 color: white;
 
@@ -362,15 +352,6 @@ text-indent: 50px;
     
    
 
-}
-   
-b{
-
-    color:#808080;
-}
-.belangerijk{
-color:red;
-}
 
 
     
