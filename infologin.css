@@ -24,6 +24,7 @@ body
 .main-nav li
 {
     display: inline-block;
+    color: red;
 }
 
 .main-nav li.active a
@@ -55,6 +56,7 @@ body
     text-align: center;
     margin-top: 100px;
     margin-right: 80px;
+    flex-basis: 25%;
     
 }
 .hero1{
@@ -62,9 +64,10 @@ body
 color: white;
     background-image: url(grey.png);
     font-size: 20px;
-    text-align: center;
+    text-align: justify-all;
     margin-top: 30px;
     margin-right: 0px;
+   flex-basis: 25%;
 }
 .heroimg{
 
@@ -75,7 +78,7 @@ color: white;
 header
 {
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(pic1.jpg);
-    height: 100vh;
+    height: 120vh;
     background-size: cover;
     background-position: center;
 }
@@ -343,13 +346,12 @@ color: white;
 
 .tabel {
   float: left;
-  width: 30%;
+  width: 32%;
   padding: 8px;
 }
 
 .prijs {
   list-style-type: none;
-  border: 1px solid #eee;
   margin: 0;
   padding: 0;
   -webkit-transition: 0.3s;
@@ -361,21 +363,30 @@ color: white;
 }
 
 .prijs .header {
-  background-color: #111;
+  background-image: url(white13.png);
+  padding: 2px;
+  width: 375px;
+  height: 450px;
+  margin-top: 10px;
+  
+  line-height: 150px;
   color: white;
-  font-size: 25px;
+  font-weight: bold;
+  font-size: 1em;
+  
 }
 
 .prijs li {
-  border-bottom: 1px solid #eee;
+  
   padding: 20px;
   text-align: center;
-  background-image: url(grey.png);
-  color: white;
+  background-color: black;
+  color: blue;
+  display: flex;
 }
 
 .prijs .grey {
-  background-image: url(whitejwz.png);
+  background-color: #eee;
   font-size: 20px;
 }
 
@@ -387,15 +398,4 @@ color: white;
   text-decoration: none;
   font-size: 18px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
