@@ -65,6 +65,18 @@ color: white;
     text-align: center;
     margin-top: 30px;
     margin-right: 0px;
+
+}
+.hero2{
+
+color: white;
+    background-image: url(grey.png);
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 0px;
+    width: 350px;
+    
 }
 .heroimg{
 
