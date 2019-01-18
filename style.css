@@ -387,10 +387,23 @@ color: white;
   text-decoration: none;
   font-size: 18px;
 }
+.voertuigen{
+	display: flex;
+	margin-top :50px;
+	margin-left:80px;
+	color: white;
+	font-size :10px;
+}
+.motor{
+	margin-right: 10px;
 
-
-
-
+}
+.auto{
+	margin-right: 10px;
+}
+.article{
+	font-size: 20px;
+}
 
 
 
