@@ -441,10 +441,20 @@ color: white;
     color: white;
     background-image: url(grey.png);
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     margin-top: 30px;
     margin-right: 0px;
-    width: 1180px;
+    width: 500px;
+}
+.gebouw{
+  float: right;
+  width: 500px;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
 }
 
 
