@@ -419,6 +419,34 @@ color: white;
 
 
 
+.medewerkers{
+	display: flex;
+	margin-top :50px;
+	margin-left:80px;
+	color: white;
+	font-size :10px;
+}
+.foto1{
+	margin-right: 10px;
+
+}
+.foto2{
+	margin-right: 10px;
+}
+.article{
+	font-size: 20px;
+}
+
+.hero3 {
+    color: white;
+    background-image: url(grey.png);
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 0px;
+    width: 1180px;
+}
+
 
 
 
